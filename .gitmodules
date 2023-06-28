@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EMSaov"]
 	path = EMSaov
 	url = https://github.com/cran/EMSaov
-	shallow = true
-	registered = true
 [submodule "nlmeVPC"]
 	path = nlmeVPC
 	url = https://github.com/cran/nlmeVPC
-	shallow = true
-	registered = true
 [submodule "PKconverter"]
 	path = PKconverter
 	url = https://github.com/cran/PKconverter
-	shallow = true
-	registered = true
 [submodule "PPtreeViz"]
 	path = PPtreeViz
 	url = https://github.com/cran/PPtreeViz
-	shallow = true
-	registered = true
