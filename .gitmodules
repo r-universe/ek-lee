@@ -5,12 +5,12 @@
 [submodule "EMSaov"]
 	path = EMSaov
 	url = https://github.com/cran/EMSaov
-[submodule "nlmeVPC"]
-	path = nlmeVPC
-	url = https://github.com/cran/nlmeVPC
 [submodule "PKconverter"]
 	path = PKconverter
 	url = https://github.com/cran/PKconverter
 [submodule "PPtreeViz"]
 	path = PPtreeViz
 	url = https://github.com/cran/PPtreeViz
+[submodule "nlmeVPC"]
+	path = nlmeVPC
+	url = https://github.com/cran/nlmeVPC
